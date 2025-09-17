@@ -67,3 +67,11 @@
 ### • Identifying revenue-driving categories.
 ### • Analyzing stock availability trends.
 ### • Optimizing inventory management.
+
+## About Me:
+
+## I’m an aspiring Data Analyst / Data Scientist open to opportunities in analytics and machine learning.
+
+## 💼 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/saumyasuteshnu-behera-50a478209/)
